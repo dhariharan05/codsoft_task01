@@ -1,3 +1,3 @@
 # codsoft_task01
 
-Task 1: CHATBOT WITH RULE-BASED RESPONSES
+Codsoft AI Internship Task 1: CHATBOT WITH RULE-BASED RESPONSES
